@@ -6,8 +6,8 @@ Getting Started
 $ npm install
 $ npm start 
 
-Backend is hosted on https://peaceful-sands-09691-a77d7aa8f6a0.herokuapp.com/ 
-APIs can be called from https://peaceful-sands-09691-a77d7aa8f6a0.herokuapp.com/api/
+Backend is hosted on https://raid-swe-challenge-be.onrender.com
+APIs can be called from https://raid-swe-challenge-be.onrender.com/api/
 
 For local, it is on port 5000 eg. localhost:5000
 
